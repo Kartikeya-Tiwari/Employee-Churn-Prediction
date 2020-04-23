@@ -7,5 +7,4 @@
 ![Introduction](Employee_churn_prediction_explinantion/Slide5.PNG)
 ![Introduction](Employee_churn_prediction_explinantion/Slide6.PNG)
 ![Introduction](Employee_churn_prediction_explinantion/Slide7.PNG)
-![Introduction](Employee_churn_prediction_explinantion/Slide8.PNG)
-![Introduction](Employee_churn_prediction_explinantion/Slide9.PNG)
+
